@@ -7,8 +7,6 @@ This repository was created for the "Nonlinear Dynamics" course assignment.
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
-- [Setup and Installation](#setup-and-installation)
-- [How to Run](#how-to-run)
 - [Code Overview](#code-overview)
 - [Expected Output](#expected-output)
 - [References](#references)
